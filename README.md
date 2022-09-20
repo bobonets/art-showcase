@@ -1,6 +1,6 @@
 # Art Showcase
 
-A repo I put examples of my art into <br>
+A repo I put some examples of my art into <br>
 
 Luz Noceda fan art: <br>
 
