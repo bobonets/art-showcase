@@ -1,9 +1,6 @@
 # Art Showcase
 
 A repo I put examples of my art into <br>
-Proceed at your own discretion <br>
-
-_Screenshots for now but later I consider adding actual renders/animations and such_
 
 Luz Noceda fan art: <br>
 
